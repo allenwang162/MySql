@@ -1,0 +1,6 @@
+C:\Users\xwan\documents\visual studio 2010\Projects\MySQL\bin\Debug\MySQL.exe.config
+C:\Users\xwan\documents\visual studio 2010\Projects\MySQL\bin\Debug\MySQL.exe
+C:\Users\xwan\documents\visual studio 2010\Projects\MySQL\bin\Debug\MySQL.pdb
+C:\Users\xwan\documents\visual studio 2010\Projects\MySQL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xwan\documents\visual studio 2010\Projects\MySQL\obj\x86\Debug\MySQL.exe
+C:\Users\xwan\documents\visual studio 2010\Projects\MySQL\obj\x86\Debug\MySQL.pdb
